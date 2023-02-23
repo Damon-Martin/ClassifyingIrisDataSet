@@ -8,4 +8,4 @@ I wanted to classify if a flower belonged to "Iris-setosa", "Iris-versicolor", "
 1. Just click on the ipynb file and you can see the code, outcomes and the notes of my project
 
 ## How to Run
-1. Load the ipynb file into Co-Lab.
+1. Load the ipynb file into Co-Lab and run.
